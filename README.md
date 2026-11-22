@@ -1,1 +1,1 @@
-# earthquake-monito
+# earthquake-monitor
